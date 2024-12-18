@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonWinkler163
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in physics, astronomy and, of course, computer science.
 - 🌱 I’m currently retraining as an IT systems management assistant. Additionally, I learn frontend engineer skills and Python via Codecademy.  
 - 💞️ I’m looking to collaborate on interesting projects.
